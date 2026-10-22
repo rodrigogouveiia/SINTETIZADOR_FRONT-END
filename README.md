@@ -2,7 +2,7 @@
 
 Este é um projeto de um **Sintetizador Musical Interativo** desenvolvido com tecnologia web. O objetivo principal é criar um instrumento musical digital, explorando a geração de áudio por meio de código e criando uma interface tridimensional.
 
- **(CLIQUE AQUI PARA TESTAR O PROJETO AO VIVO) (https://rodrigogouveiia.github.io/SINTETIZADOR_FRONT-END/))** 
+🚀 **[CLIQUE AQUI PARA TESTAR O PROJETO AO VIVO](https://rodrigogouveiia.github.io/SINTETIZADOR_FRONT-END/)**
 
 ---
 
