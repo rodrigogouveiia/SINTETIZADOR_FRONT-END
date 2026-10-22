@@ -1,4 +1,4 @@
-# 🎹 Sintetizador Front-End Criativo
+# 🎹 Sintetizador Front-End 
 
 Este é um projeto de um **Sintetizador Musical Interativo** desenvolvido com tecnologia web. O objetivo principal é criar um instrumento musical digital, explorando a geração de áudio por meio de código e criando uma interface tridimensional.
 
