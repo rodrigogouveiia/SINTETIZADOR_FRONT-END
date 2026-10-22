@@ -7,7 +7,7 @@ Este é um projeto de um **Sintetizador Musical Interativo** desenvolvido com te
 ---
 
 ### Tecnologias Utilizadas
-* **HTML5:** Estruturação semântica e armazenamento de frequências via atributos `data-nota`.
+* **HTML5:** Estruturação semântica e armazenamento de frequências Hertz via atributos `data-nota`.
 * **CSS3:** Design moderno em modo escuro, alinhamento flexível com Flexbox e animações mecânicas de profundidade ao pressionar as teclas.
 * **JavaScript (ES6):** Uso da **Web Audio API** para gerar ondas sonoras ('sine'), controle dinâmico de ganho de volume exponencial (`exponentialRampToValueAtTime`) e manipulação de eventos do teclado físico do computador.
 
